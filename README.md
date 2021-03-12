@@ -1,5 +1,5 @@
 # FULLSTACKPROJECTDEMOELEARNING
-The project is on e-learning management.
-Front-end done using ReactJS.
-Back-end done with Spring Rest.
-Database used is MySQL.
+The project is on e-learning management. <br/>
+Front-end done using ReactJS. <br/>
+Back-end done with Spring Rest. <br/>
+Database used is MySQL. <br/>
