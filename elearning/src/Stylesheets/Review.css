@@ -1,0 +1,43 @@
+.reviews{
+    margin: auto;
+    width: 50%;
+    border: 1px solid  black;
+    /* float: right; */
+    
+    /* border-width: 1px; */
+    padding: 20px;
+    }
+    .reviews__list
+    {margin:0}
+    .reviews__list-item{border-top:1px solid #eee}
+    .reviews__list-item:last-child{padding-bottom:0}
+    .review{position:relative}
+    .review__content{margin-top:.75rem;margin-bottom:0;white-space:pre-line}@media print,screen and (min-width:40em)
+    {
+    .review__content{margin-top:.85rem;margin-bottom:0}}
+    
+    
+    h5{
+     color:blue;
+    }
+        
+    
+    .form {
+    margin: 0 auto;
+    width: 210px;
+    }
+    
+     .button {
+      background-color:#ff4a7e;
+      border: none;
+      color: white;
+      /* padding: 15px 32px; */
+      /* width:auto; */
+      /* text-align: center; */
+      /* text-decoration: none; */
+      /* display: inline-block; */
+      /* font-size: 16px; */
+      margin: 10px 270px;
+      cursor: pointer;
+    }
+    
