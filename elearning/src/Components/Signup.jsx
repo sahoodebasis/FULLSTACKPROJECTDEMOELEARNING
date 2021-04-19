@@ -159,7 +159,7 @@ function Signup() {
                         <select className="perftext" id="role" name="role" value={formik.values.role} onChange={formik.handleChange}>
                             <option hidden selected>choose...</option>
                             <option value="vendor">Vendor</option>
-                            <option value="learner">Learner</option>
+                            <option value="user">User</option>
                         </select>
                         {formik.errors.role ? <div style={{ color: 'red' }}>{formik.errors.role}</div> : null}
                     </div>
